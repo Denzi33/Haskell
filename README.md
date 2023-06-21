@@ -1,2 +1,0 @@
-# Haskell
-Experience with Haskell.
